@@ -1,6 +1,3 @@
-// Access/tokens vkbot
-// d6e675381dc8c772f28975fc5e18e228c76481348d6c3d7266aa09e11120676a77d2fb5263a63592f388f
-// 335459600
 import { VK, Keyboard } from 'vk-io'
 import config from 'config'
 import axios from 'axios'
